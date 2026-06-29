@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fdp.orderservice.OrderServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.11 s -- in com.fdp.orderservice.OrderServiceApplicationTests
