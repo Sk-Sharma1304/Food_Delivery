@@ -65,14 +65,3 @@ __pycache__/
 *.pyc
 node_modules/
 docker-compose.yml
-
-#Other Services
-
-eureka-server
-api-gateway
-.github
-data
-notification-service
-order-service
-payment-service
-restaurant-service
